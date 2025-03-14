@@ -1,5 +1,3 @@
-Here’s the updated **README** with your **GitHub image links**, correct formatting, and structured presentation of your **EEG electrodes**:
-
 ---
 
 # 🧠 EEG Electrodes – 3D-Printed Dry Electrodes for EEG Applications  
@@ -65,9 +63,6 @@ A novel **arch-shaped electrode** offering **greater comfort and adaptability**,
 
 ---
 
-## 📜 License  
-This project is released under the **MIT License** – feel free to use, modify, and share!  
-
 ---
 
 ## 🚀 Contribute  
@@ -76,5 +71,3 @@ Interested in improving the design? Fork the repo, make modifications, and submi
 💬 **Contact**: If you have any questions, open an issue or reach out!  
 
 ---
-
-Now your **README** is fully **optimized**, embedding images correctly while maintaining **professional and structured formatting**. 🚀
